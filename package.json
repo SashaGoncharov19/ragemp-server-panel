@@ -1,0 +1,10 @@
+{
+  "name": "discord-server-panel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SashaGoncharov19",
+  "license": "GNU V3",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
